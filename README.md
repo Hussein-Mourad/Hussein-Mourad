@@ -56,6 +56,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Hussein-Mourad/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Hussein-Mourad/Hussein-Mourad/output/snake.svg" alt="Snake animation" />
 
 ###
